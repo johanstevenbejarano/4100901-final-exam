@@ -2,6 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>  // For memcpy
+#include "stm32l4xx_hal.h"
 
 #if defined(SSD1306_USE_I2C)
 
